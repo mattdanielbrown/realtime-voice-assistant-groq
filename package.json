@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@deepgram/sdk": "^3.0.0-beta.2",
-    "@langchain/groq": "^0.0.1",
+    "@langchain/groq": "^0.1.1",
     "@svgr/webpack": "^8.1.0",
     "@uidotdev/usehooks": "^2.4.1",
     "axios": "^1.6.7",
